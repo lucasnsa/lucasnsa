@@ -2,7 +2,6 @@
 [![Lucas Naiade's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasnsa&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [Zambiee](https://zambiee.com.br)
 <!--
 **lucasnsa/lucasnsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
